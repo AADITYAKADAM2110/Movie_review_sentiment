@@ -49,27 +49,4 @@ movie_recommender_sentiment/
 
 ---
 
-## 📅 Development Timeline (15 Days)
 
-| Day        | Task                                       |
-|------------|--------------------------------------------|
-| Day 1      | Project setup, Git, dataset exploration    |
-| Days 2-4   | Preprocess text data, TF-IDF vectorization |
-| Days 5-6   | Train sentiment classifier (LogReg/NB)     |
-| Day 7      | Model evaluation and tuning                |
-| Days 8-9   | Build similarity engine using TF-IDF       |
-| Day 10     | Combine sentiment + recommendation logic   |
-| Days 11-12 | Optional web app using Streamlit           |
-| Day 13     | Visualization, output logs                 |
-| Day 14     | Create PPT and document findings           |
-| Day 15     | Final polish and presentation              |
-
----
-
-## 🌱 Future Improvements
-
-- Add mood/genre filters to refine recommendations
-- Use BERT for contextual similarity
-- Deploy fully using Streamlit Cloud / Render / HuggingFace Spaces
-
----
